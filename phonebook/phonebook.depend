@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700669441 source:c:\users\admin\3d objects\button\phonebook\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+
